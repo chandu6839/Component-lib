@@ -1,6 +1,6 @@
 {
   "name": "@chandu6839/simplebutton",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "build/index.js",
   "module": "build/index.es.js",
   "repository": "https://github.com:chandu6839/Component-lib.git",
